@@ -1,5 +1,5 @@
 # BT_REMOTE_CONTROLLER
-Bluetooth remote controller for an RC vehicle. Implemented with an Atmel ATMEGA1284p MCU.
+Bluetooth remote controller for a RC vehicle. Implemented with an Atmel ATMEGA1284p MCU.
 
 <p align="center">
   <img src="https://github.com/matlin975/BT_REMOTE_CONTROLLER/blob/main/hardware.png"/>
